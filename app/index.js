@@ -34,6 +34,7 @@ const menuItems = [
   { title: "Settings Screen", component: "SettingsScreen" },
   { title: "CircularProgressBar", component: "CircularLoadingBarExample" },
   { title: "Pull to Refresh", component: "PullToRequest" },
+  { title: "Number Count Animation", component: "NumberCountExample" },
   {
     title: "Social Network Details",
     component: "SocialNetworkDetailsScreen",
